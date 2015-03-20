@@ -1,6 +1,6 @@
 {
   "name": "hapi-marko",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An adapter to use Marko templates in HAPI",
   "main": "index.js",
   "scripts": {
