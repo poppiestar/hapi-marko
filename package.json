@@ -1,0 +1,16 @@
+{
+  "name": "hapi-marko",
+  "version": "1.0.0",
+  "description": "An adapter to use Marko templates in HAPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hapi",
+    "marko",
+    "templates"
+  ],
+  "author": "Drew Miller",
+  "license": "MIT"
+}
